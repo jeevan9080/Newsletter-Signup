@@ -1,1 +1,1 @@
-# Newsletter-Signup (last updated on 05.11.2021)
+# Newsletter-Signup (last updated on 06.11.2021)
